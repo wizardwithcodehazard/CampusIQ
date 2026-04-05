@@ -19,7 +19,7 @@
 
 ## 🌟 **The Engine for Student Success**
 
-**CampusIQ** is not just a dashboard; it's an intelligent career co-pilot. Built for ****, it solves the critical problem of late discovery of placement gaps. 
+**CampusIQ** is not just a dashboard; it's an intelligent career co-pilot. It solves the critical problem of late discovery of placement gaps. 
 
 By continuously evaluating students through **AI-driven Resume Analysis**, **GitHub Portfolio Scoring**, and **Mock Interviews**, CampusIQ provides actionable insights to both students and administrators *months* before placement season begins.
 
