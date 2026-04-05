@@ -87,7 +87,7 @@ We chose **Groq** for our recommendation engine because *speed matters*. When an
 
 ```bash
 # Clone the repository
-git clone https://github.com/CyberDevs/CampusIQ.git
+git clone https://github.com/wizardwithcodehazard/CampusIQ.git
 cd CampusIQ
 
 # Backend Setup
@@ -181,6 +181,6 @@ git push origin feature/amazing-feature
 CampusIQ doesn’t just track progress.  
 ### It guarantees readiness.
 
-Made with 🧡 by **CyberDevs** for ****
+Made with 🧡 by **DualCore**
 
 </div>
